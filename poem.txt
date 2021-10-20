@@ -2,5 +2,6 @@ blue
 pink
 red
 green
+yellow
 orange
 these are the rainbow colors
